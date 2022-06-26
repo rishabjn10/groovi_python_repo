@@ -1,4 +1,4 @@
-def isIsomorphic(self, str1, str2):
+def isIsomorphic(str1, str2):
         charCount = dict()
         #initially setting c to "a"
         c = "a"
