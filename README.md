@@ -1,2 +1,2 @@
 # groovi-s_python_repo
-This is my repository where I'll store my code
+This repository contains some python function to prepare the career with python, DSA and more.
